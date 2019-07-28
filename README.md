@@ -1,4 +1,4 @@
 # Simple_ChatBot
 
-Compatible only with python 3.6
+Compatible only with Python 3.6
 
